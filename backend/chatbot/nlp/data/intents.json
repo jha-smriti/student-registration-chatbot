@@ -1,0 +1,8 @@
+{
+"greet": ["hello", "hi", "hey", "good morning", "good evening"],
+"registration_dates": ["when does registration start", "registration dates", "last date to register", "deadline for registration", "when can i register"],
+"required_documents": ["what documents are needed", "required documents for registration", "which documents to upload", "documents list"],
+"fee_payment": ["how to pay fees", "fee payment", "pay my registration fee", "payment methods for fees"],
+"portal_steps": ["how to register on the portal", "steps to complete registration", "registration process", "portal instructions"],
+"deadline": ["registration deadline", "last date", "final date to submit registration"]
+}
